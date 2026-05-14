@@ -23,7 +23,7 @@ During my PhD, I built a KDE-based ranking statistic to improve the detection of
 49 signals above IFAR > 0.5 year and p_astro > 0.5. After implementing the KDE-based ranking, this increased to 57 events, a 16% improvement in detection rate.
 This work was merged into the production codebase, published in [Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043036), and the ranking has since been extended to the O4 observing run.
 
-My contributions (my name is in the copyright header of each file):
+My contributions:
 
 | File | What it does |
 |------|-------------|
