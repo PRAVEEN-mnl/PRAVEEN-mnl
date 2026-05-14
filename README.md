@@ -21,7 +21,7 @@ PyCBC is the core software package used to analyse gravitational wave data from 
 
 During my PhD, I built a KDE-based ranking statistic to improve the detection of binary black hole signals in LIGO-Virgo O3 data. The previous ranking method found
 49 signals above IFAR > 0.5 year and p_astro > 0.5. After implementing the KDE-based ranking, this increased to 57 events, a 16% improvement in detection rate.
-This work was merged into the production codebase, published in Physical Review D, and the ranking has since been extended to the O4 observing run.
+This work was merged into the production codebase, published in [Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043036), and the ranking has since been extended to the O4 observing run.
 
 My contributions (my name is in the copyright header of each file):
 
@@ -58,10 +58,17 @@ Tools: Git, Docker, Linux, Jupyter, LaTeX
 
 ---
 
-## Publication
+## Publications
 
-P. Kumar and T. Dent, Optimized Search for a Binary Black Hole Merger Population in LIGO-Virgo O3 Data, Physical Review D, 110, 043036 (2024).
-https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043036
+**Direct contributions:**
+
+P. Kumar and T. Dent, Optimized Search for a Binary Black Hole Merger Population in LIGO-Virgo O3 Data, [Physical Review D, 110, 043036 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043036)
+
+LVK Collaboration, GWTC-4.0: Methods for Identifying and Characterizing Gravitational-wave Transients, [arXiv:2508.18081](https://arxiv.org/abs/2508.18081) — wrote the PyCBC pipeline section
+
+**LVK Collaboration papers (member authorship):**
+
+Listed as collaboration author on LVK publications during PhD (2020 to 2025). Full list available on request.
 
 ---
 
