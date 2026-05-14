@@ -1,7 +1,7 @@
 # Praveen Kumar
 
 AI Research Engineer | Machine Learning | Data Science
-Zaragoza, Spain | praveenkumarpkrtk@gmail.com | [LinkedIn]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/praveen-pkrtk/))
+Zaragoza, Spain | praveenkumarpkrtk@gmail.com | [LinkedIn](https://www.linkedin.com/in/praveen-pkrtk/)
 
 ---
 
