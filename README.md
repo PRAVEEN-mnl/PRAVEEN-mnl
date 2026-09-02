@@ -89,6 +89,5 @@ Benchmarked signal detection pipelines for next-generation gravitational wave de
 
 ## Looking For
 
-I am looking for roles in ML Engineering, AI Research, or Data Science. I am particularly interested in teams working on LLMs, agentic AI, or applied ML research. No visa sponsorship needed for Spain. Available immediately.
-
+I am looking for roles in ML Engineering, AI Research, or Data Science. I am particularly interested in teams working on LLMs, agentic AI, or applied ML research.
 Contact: praveenkumarpkrtk@gmail.com
